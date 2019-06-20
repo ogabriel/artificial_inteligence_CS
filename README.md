@@ -1,5 +1,5 @@
 # artificial_inteligence_CS
-Artifical Inteligence is a subject in my university, so i made an repository to upload some studied things
+Artifical Inteligence is a subject in my university, so i made an repository to upload some studied topics
 
 # TODO
 - genetic algorithm
